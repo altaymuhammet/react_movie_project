@@ -12,6 +12,7 @@ import NotFound from "./Components/NotFound";
 //STYLES
 import GlobalStyle from "./GlobalStyles";
 
+
 function App() {
   return (
     <Router>
